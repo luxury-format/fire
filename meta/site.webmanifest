@@ -8,13 +8,13 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/luxury-format/fire/a5e32d082e0c7f030411bd52b065b12060979f09/meta/web-app-manifest-192x192.png",
+      "src": "https://raw.githubusercontent.com/luxury-format/fire/main/meta/web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "https://raw.githubusercontent.com/luxury-format/fire/a5e32d082e0c7f030411bd52b065b12060979f09/meta/web-app-manifest-512x512.png",
+      "src": "https://raw.githubusercontent.com/luxury-format/fire/main/meta/web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
